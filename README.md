@@ -46,5 +46,5 @@ For any inquiries or questions regarding this project, please contact Osman Eren
 
 Happy Analyzing!
 
-
+<img width="893" alt="Screenshot 2024-04-29 at 8 38 47 PM" src="https://github.com/osmanerenoguzhan/IBM-Excel-Project/assets/57762530/bf8174d5-8eb0-4332-b7e5-4482f12d3b1f">
 
