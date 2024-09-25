@@ -15,7 +15,6 @@ This project analyzes employee data from an Excel spreadsheet provided by IBM HR
 
 - Explore the distribution of employees by age, department, gender, and marital status.
 - Analyze the average hourly rate across different departments and demographic groups.
-- Identify patterns and correlations between employee attributes to inform HR decision-making.
 
 ## Data Sources
 
